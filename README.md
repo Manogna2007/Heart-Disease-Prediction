@@ -78,6 +78,9 @@ streamlit run app.py
 After running the command, Streamlit will automatically open the application in your default web browser.
 
 ---
+##LIVE DEMO :
+
+🔗 https://manogna2007-heart-disease-prediction-app-q7hoqo.streamlit.app/
 
 📈 Input Features
 
